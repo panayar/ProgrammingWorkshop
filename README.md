@@ -1,4 +1,6 @@
 # ProgrammingWorkshop✨
+![cropped-descarga](https://user-images.githubusercontent.com/71273441/112771551-fc6fae80-8ff1-11eb-9307-3c9515f6cbbd.png)
+
 > Status : in process 
 
 ## Preguntas 
