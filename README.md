@@ -179,6 +179,7 @@ https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=tr
 ### Digaramas de secuencia 
 https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=irdoBUmjBE3D#
 ### Diagrama de componentes 
+https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=n8uoVZ4LC33i#
 
 ## Mock-Ups
 
