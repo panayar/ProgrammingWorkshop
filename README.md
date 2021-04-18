@@ -175,14 +175,13 @@
 
 
 ### Diagramas Caso de uso 
-https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=0_0#
+https://lucid.app/documents/view/61f2197f-83ea-4126-8dfe-26ceffd03eed
 ### Diagramas de clases 
-https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=omDnnrJVxypD#
+https://lucid.app/documents/view/61f2197f-83ea-4126-8dfe-26ceffd03eed
 ### Digaramas de secuencia 
-https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=irdoBUmjBE3D#
+https://lucid.app/documents/view/61f2197f-83ea-4126-8dfe-26ceffd03eed
 ### Diagrama de componentes 
-https://lucid.app/lucidchart/61f2197f-83ea-4126-8dfe-26ceffd03eed/edit?shared=true&page=n8uoVZ4LC33i#
-
+https://lucid.app/documents/view/61f2197f-83ea-4126-8dfe-26ceffd03eed
 ## Mock-Ups
 
 https://www.figma.com/file/YQQVD1zSVrWqUuDcJhtSPe/FourPawsCitiziens?node-id=0%3A1
